@@ -27,15 +27,35 @@ The app is designed with **Material You**, supports **light and dark themes**, a
 > 📌 All screenshots are real app screens  
 > Resolution: 1080×2400 (portrait)
 
-| Home Screen | Actions Menu |
-|------------|--------------|
-| ![Home Screen](screenshots/home_screen.jpg) | ![Kanji Actions](screenshots/actions.jpg) |
-| Kanji grid with learning progress | Study / Practice selection |
+<table>
+<tr>
+<td align="center">
+<b>Home Screen</b><br>
+<img src="screenshots/home_screen.jpg" width="250">
+<br>Kanji grid with learning progress
+</td>
 
-| Study Screen | Practice Screen |
-|-------------|----------------|
-| ![Study Screen](screenshots/study.jpg) | ![Practice Screen](screenshots/practice.jpg) |
-| Kanji meaning, readings and examples | Guided kanji tracing with stroke template |
+<td align="center">
+<b>Actions Menu</b><br>
+<img src="screenshots/actions.jpg" width="250">
+<br>Study / Practice selection
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Study Screen</b><br>
+<img src="screenshots/study.jpg" width="250">
+<br>Kanji meaning, readings and examples
+</td>
+
+<td align="center">
+<b>Practice Screen</b><br>
+<img src="screenshots/practice.jpg" width="250">
+<br>Guided kanji tracing with stroke template
+</td>
+</tr>
+</table>
 
 
 
