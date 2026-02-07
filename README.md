@@ -27,6 +27,8 @@ The app is designed with **Material You**, supports **light and dark themes**, a
 > 📌 Replace the image files with your real screenshots  
 > Example resolution: 1080×2400 (portrait)
 
+<table style= "width: 100%">
+<tr>
 ### 🏠 Home Screen (Kanji Grid)
 
 ![Home Screen](screenshots/home_screen.jpg)
@@ -58,6 +60,11 @@ The app is designed with **Material You**, supports **light and dark themes**, a
 ![Practice Screen](screenshots/practice.jpg)
 
 ---
+</tr>
+</table>
+
+
+
 
 ## 🧠 How Practice Mode Works
 
