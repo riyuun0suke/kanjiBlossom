@@ -24,44 +24,18 @@ The app is designed with **Material You**, supports **light and dark themes**, a
 
 ## 📱 Screenshots
 
-> 📌 Replace the image files with your real screenshots  
-> Example resolution: 1080×2400 (portrait)
+> 📌 All screenshots are real app screens  
+> Resolution: 1080×2400 (portrait)
 
-<table style= "width: 100%">
-<tr>
-### 🏠 Home Screen (Kanji Grid)
+| Home Screen | Actions Menu |
+|------------|--------------|
+| ![Home Screen](screenshots/home_screen.jpg) | ![Kanji Actions](screenshots/actions.jpg) |
+| Kanji grid with learning progress | Study / Practice selection |
 
-![Home Screen](screenshots/home_screen.jpg)
-
----
-
-### 📂 Kanji Actions Menu (Study / Practice)
-
-![Kanji Menu](screenshots/actions.jpg)
-
----
-
-### 📖 Study Screen (Kanji Details)
-
-- Meaning
-- Onyomi & Kunyomi
-- Example words with readings
-
-![Study Screen](screenshots/study.jpg)
-
----
-
-### ✍️ Practice Screen (Kanji Tracing)
-
-- Semi-transparent kanji template
-- User draws directly over the strokes
-- Stroke snapping & validation
-
-![Practice Screen](screenshots/practice.jpg)
-
----
-</tr>
-</table>
+| Study Screen | Practice Screen |
+|-------------|----------------|
+| ![Study Screen](screenshots/study.jpg) | ![Practice Screen](screenshots/practice.jpg) |
+| Kanji meaning, readings and examples | Guided kanji tracing with stroke template |
 
 
 
