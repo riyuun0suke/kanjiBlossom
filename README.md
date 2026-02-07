@@ -3,7 +3,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 
-Kanji Blossom is a Flutter-based mobile application inspired by Kanji Blossom and Duolingo.  
+Kanji Blossom is a Flutter-based mobile application inspired by Kanji Blossom.  
 It helps learners study Japanese kanji through **visual learning**, **examples**, and **guided writing practice** using stroke templates.
 
 The app is designed with **Material You**, supports **light and dark themes**, and focuses on clean, modular code architecture.
